@@ -1,5 +1,6 @@
 # ImageHash
 Like [VisiPics](https://web.archive.org/web/20140723000216/http://www.visipics.info/index.php?title=Main_Page), but faster.
+
 This is a small Windows program written in Lazarus and Freepascal that uses the DHash image-hashing algorithm to search folders and subfolders for identical or similar images, including cropped versions or those with different resolutions.
 
 [![No Maintenance Intended](http://unmaintained.tech/badge.svg)](http://unmaintained.tech/)
